@@ -1,2 +1,3 @@
 # Acrylic-Planck-Case
-A simple high profile acrylic case for the Planck PCB by OLKB
+This keyboard is a simple high profile case for the Planck keyboard by OLKB. 
+For more information on the board feel free to check out the explanation on [my website](http://carsonwright.me/acrylicplanck.html).
